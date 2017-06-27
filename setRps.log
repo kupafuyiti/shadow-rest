@@ -1,0 +1,5 @@
+--------------------------------------------
+Sat Jun 24 14:38:12 CST 2017
+cpu number:2  mask:0x3
+eth0 has multi queue, don't set rps for it...
+total_nic_queues:0  flow_entries:0
